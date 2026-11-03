@@ -29,7 +29,7 @@ export function Header({ cartCount, onCartClick }) {
       <nav className="main-nav" aria-label="Main navigation">
         <a href="#shop">Shop coffee</a>
         <a href="#story">Our story</a>
-        <a href="#contact">Say hello</a>
+        <a href="#contact">Contact Us</a>
       </nav>
       <button
         className="cart-trigger"
